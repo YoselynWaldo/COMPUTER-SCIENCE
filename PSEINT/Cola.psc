@@ -1,0 +1,8 @@
+Algoritmo Cola
+	Escribir La_cola
+	Escribir La_cola_elemento_1
+	Escribir cola_con_elemento_1
+	Escribir se regresa_tamaño_la_cola_elemento_1
+	Escribir retorna_array_sin_elemento_1
+	Escribir se_imprimen_datos_de_la_cola
+FinAlgoritmo
